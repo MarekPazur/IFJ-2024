@@ -1,8 +1,8 @@
-# Implementation of an interpreter for imperative language IFJ24 
+# Implementation of a compiler frontend for imperative language IFJ24 
 
 Project developed for the course Formal Languages and Compilers (IFJ) at Brno University of Technology, Faculty of Information Technology, during the 2024/2025 academic year.
 
-This repository contains the implementation of an interpreter for a subset of the Zig programming language.
+This repository contains the implementation of an compiler frontend for a subset of the Zig programming language.
 
 ## Authors
 - [Marek Pazúr](https://github.com/0x6B6)
